@@ -1,0 +1,143 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#body-family{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.8;
+    background: #fff;
+    color: #848484;
+    font-weight: 300;
+    overflow-x: hidden;
+    margin: 25px 50px 75px;
+    font-family:'Dancing Script', cursive;
+}
+.main-title{
+    color: #000000;
+    font-weight: 300;
+    text-align: center;
+    margin: 0 0 40px 0;
+    font-family:'Dancing Script', cursive;
+}
+/* INICIO DE LA CIUDAD 1 */
+.title-ecociudad{
+    background-color: transparent;
+    color: #3f2c53;
+    font-weight: 300;
+    font-size: 2rem;
+    font-family:'Dancing Script', cursive;
+    text-align: center;
+    margin: 0 0 40px 0;
+}
+.parrafo-ecociudad{
+    background-color: transparent;
+    color: #3f2c53;
+    font-weight: 300;
+    font-size: 1.5rem;
+    font-family:'Dancing Script', cursive;
+    text-align: center;
+    margin: 0 0 650px 0;
+}
+#proyecto {
+    display: block;
+    position: absolute;
+    overflow: hidden;
+    background-color: #E3F6F5;
+    left: 50px;
+    top: 360px;
+    z-index: 5px;
+    height: 600px;
+    width: 1400px;
+    margin: 20px 20px 20px 20px;
+}
+/* FIN DE LA CIUDAD 1 */
+
+
+/* INICIO DE LA CIUDAD 2 */
+.title-city{
+    background-color: transparent;
+    color: #3f2c53;
+    font-weight: 300;
+    font-size: 2rem;
+    font-family:'Dancing Script', cursive;
+    text-align: center;
+    margin: 0 0 50px 0;
+}
+.parrafo-city{
+    background-color: transparent;
+    color: #3f2c53;
+    font-weight: 300;
+    font-size: 1.8rem;
+    text-align: center;
+    margin: 0 0 650px 0;
+}
+
+.fondo-city {
+    display: block;
+    position: absolute;
+    overflow: hidden;
+    left: 50px;
+    top: 1240px;
+    z-index: 5px;
+    height: 600px;
+    width: 1400px;
+    margin: 20px 20px 20px 20px;
+}
+
+.ciudad img{
+    margin: 20px 20px 20px 20px;
+    display: block;
+    position: absolute;
+    overflow: hidden;
+    left: 50px;
+    top: 1250px;
+    height: 600px;
+    width: 1400px;
+}
+.vereda img{
+    margin: 20px 20px 20px 20px;
+    display: block;
+    position: absolute;
+    overflow: hidden;
+    left: 50px;
+    top: 1542px;
+    height:25px;
+    width: 1400px;
+}
+
+.calle img {
+    margin: 20px 20px 20px 20px;
+    display: block;
+    position: absolute;
+    overflow: hidden;
+    left: 50px;
+    top: 1565px;
+    height: 130px;
+    width: 1400px;
+}
+
+.varanda img {
+    margin: 20px 20px 20px 20px;
+    display: block;
+    position: absolute;
+    overflow: hidden;
+    left: 50px;
+    top: 1660px;
+    height: 50px;
+    width: 1400px;
+}
+
+.rio img {
+    margin: 20px 20px 20px 20px;
+    display: block;
+    position: absolute;
+    overflow: hidden;
+    left: 50px;
+    top: 1710px;
+    height: 140px;
+    width: 1400px;
+}
+/* FIN DE LA CIUDAD 2 */
+/* FIN DE LA CIUDAD 2 */
+
